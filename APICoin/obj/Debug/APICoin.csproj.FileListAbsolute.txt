@@ -1,0 +1,15 @@
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\APICoin.exe
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\APICoin.pdb
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Web.Http.dll
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Web.Http.xml
+C:\Users\Dell\RiderProjects\APICoin\APICoin\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Dell\RiderProjects\APICoin\APICoin\obj\Debug\APICoin.csprojAssemblyReference.cache
+C:\Users\Dell\RiderProjects\APICoin\APICoin\obj\Debug\APICoin.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\APICoin\APICoin\obj\Debug\APICoin.csproj.CopyComplete
+C:\Users\Dell\RiderProjects\APICoin\APICoin\obj\Debug\APICoin.exe
+C:\Users\Dell\RiderProjects\APICoin\APICoin\obj\Debug\APICoin.pdb
